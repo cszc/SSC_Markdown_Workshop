@@ -151,17 +151,15 @@ Try using your own editor, Makodo, Swipe, or R Markdown to generate a report or 
 
 Come up with your own idea, or check out these iPython Notebooks for inspiration and example code/text to report on or present:
 
-*[Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-*[Starry Night Notebook](http://nbviewer.jupyter.org/github/jiffyclub/ipythonblocks/blob/master/demos/starry_night_to_text.ipynb)
-*[XKCD Matplotlib Library](http://nbviewer.jupyter.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
+* [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [Starry Night Notebook](http://nbviewer.jupyter.org/github/jiffyclub/ipythonblocks/blob/master/demos/starry_night_to_text.ipynb)
+* [XKCD Matplotlib Library](http://nbviewer.jupyter.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
 
 Don't forget to use:
-* Headings
-* Tables
-* Code
-* Quotes
+* Headings, Tables, Code Insert, Quotes
 
 If you feel like it, try inserting:
+
 * An Equation
 * A Picture
 * Footnotes
@@ -169,6 +167,7 @@ If you feel like it, try inserting:
 * Horizontal Rules
 
 Or if you are super into it:
+
 * Create your own HTML template or find another one to integrate with it
 ---
 ## Further Reading
