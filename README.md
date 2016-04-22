@@ -33,6 +33,6 @@ Requires Sign Up:
 
 ---
 Further Reading
-
-*  [The (Not So) Short Introduction to LaTeX2e](http://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)
+* [Markdown Tutorial](http://www.markdowntutorial.com/)
+* [The (Not So) Short Introduction to LaTeX2e](http://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)
 * [Comprehensive LaTeX Symbol List](http://bay.uchicago.edu/tex-archive/info/symbols/comprehensive/symbols-letter.pdf)
