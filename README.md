@@ -63,6 +63,10 @@ The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/w
 |Pipes | Make | It| Easy|
 |---|---|---|
 |See | how| easy| it is?|
+---
+## Quotes
+
+> If you can't make it good, at least make it look good. - Bill Gates
 
 ---
 ## Displaying Code
@@ -162,6 +166,7 @@ If you feel like it, try inserting:
 * A Picture
 * Footnotes
 * HTML Snippets
+* Horizontal Rules
 
 Or if you are super into it:
 * Create your own HTML template or find another one to integrate with it
@@ -176,3 +181,4 @@ Or if you are super into it:
 * [Comprehensive LaTeX Symbol List](http://bay.uchicago.edu/tex-archive/info/symbols/comprehensive/symbols-letter.pdf)
 * I stole info from [Markdown, Latex, Etc.](https://gist.github.com/zmwangx/9987772)
 * Good [example](http://kieranhealy.org/files/misc/article-markdown.pdf) of using pandoc in a reporting workflow by Kieran Healy with a [howto](https://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+* [Datacamp R Markdown] Tutorial (https://www.datacamp.com/community/blog/r-markdown-tutorial-reproducible-reporting-in-r)
