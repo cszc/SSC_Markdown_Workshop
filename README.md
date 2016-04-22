@@ -13,7 +13,8 @@ April 22, 2016
 * Free, open-source, anyone can use and edit without proprietary software
 * Easily export to pdf, html, etc.
 ---
-![pictcha]http://media.tumblr.com/a009269b9f0aa039c03a723f4d71b9f0/tumblr_inline_mmwltulZIC1qz4rgp.png
+
+![pictcha](http://media.tumblr.com/a009269b9f0aa039c03a723f4d71b9f0/tumblr_inline_mmwltulZIC1qz4rgp.png)
 ---
 ## What's a markup language?
 
@@ -52,6 +53,7 @@ The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/w
 ## H2
 ### H3
 
+---
 ### Tables
 ```
 |Pipes | Make | It| Easy|
@@ -59,14 +61,13 @@ The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/w
 |See | how| easy| it is?|
 ```
 |Pipes | Make | It| Easy|
-|--|--|--|
+|---|---|---|
 |See | how| easy| it is?|
 
-> Quotes
 ---
 ## Displaying Code
-
 ```
+You can do in-line stuff `like this` or you can do blocks like this:
 ```
 You can do in-line stuff `like this` or you can do blocks like this:
 ```
@@ -139,7 +140,31 @@ Requires Sign Up:
 **Don't forget!** You can always use your favorite text editor! I use [Atom](https://atom.io/), but [Sublime Text](sublime text) supports Markdown too. Emacs has out of the box LaTeX integration.
 
 There are lots of paid ones too, but why use those when you can use **free** and **open-source**?
+---
+## Now let's make something!
 
+Try using your own editor, Makodo, Swipe, or R Markdown to generate a report or deck. We'll share at the end! 
+
+Come up with your own idea, or check out these iPython Notebooks for inspiration and example code/text to report on or present:
+
+*[Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+*[Starry Night Notebook](http://nbviewer.jupyter.org/github/jiffyclub/ipythonblocks/blob/master/demos/starry_night_to_text.ipynb)
+*[XKCD Matplotlib Library](http://nbviewer.jupyter.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
+
+Don't forget to use:
+* Headings
+* Tables
+* Code
+* Quotes
+
+If you feel like it, try inserting:
+* An Equation
+* A Picture
+* Footnotes
+* HTML Snippets
+
+Or if you are super into it:
+* Create your own HTML template or find another one to integrate with it
 ---
 ## Further Reading
 * More [Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
