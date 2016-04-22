@@ -160,11 +160,7 @@ Don't forget to use:
 
 If you feel like it, try inserting:
 
-* An Equation
-* A Picture
-* Footnotes
-* HTML Snippets
-* Horizontal Rules
+* An Equation, A Picture, Footnotes, HTML Snippets, Horizontal Rules
 
 Or if you are super into it:
 
