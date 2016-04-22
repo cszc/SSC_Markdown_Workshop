@@ -3,7 +3,7 @@ Playing around with markdown, LaTeX, making pretty reports
 April 22, 2016
 
 ---
-![pictcha](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.github-camo.com%2Fc78b3c01ca7753c84d26706b248adf236cda7d4f%2F68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f3337383032332f31303031333038372f32346363633765632d363134392d313165352d393765612d3533613834326137313565612e706e67&imgrefurl=https%3A%2F%2Fatom.io%2Fpackages%2Fmarkdown-preview&docid=yTamCbI3IEb8TM&tbnid=8WC7kfFpZZXfDM%3A&w=800&h=500&bih=949&biw=1920&ved=0ahUKEwiYlJjZoaPMAhXLmoMKHTIAD_wQMwhCKAYwBg&iact=mrc&uact=8)
+## Why not use Word or Google Docs?
 ---
 ## Why not use Word or Google Docs?
 * Easier - Never take your fingers off the keyboard
@@ -12,7 +12,8 @@ April 22, 2016
 * Push it to and edit on GitHub
 * Free, open-source, anyone can use and edit without proprietary software
 * Easily export to pdf, html, etc.
-
+---
+![pictcha]http://media.tumblr.com/a009269b9f0aa039c03a723f4d71b9f0/tumblr_inline_mmwltulZIC1qz4rgp.png
 ---
 ## What's a markup language?
 
@@ -34,21 +35,84 @@ Like HTML (Hyper Text Markup Language)!
 
 ---
 ## Markdown In Action
+
+### The Basics
 ```
 The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).  
 ```
-The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).  
+The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
+
+### Headings
+```
+# H1
+## H2
+### H3
+```
+# H1
+## H2
+### H3
+
+### Tables
+```
+|Pipes | Make | It| Easy|
+|--|--|--|
+|See | how| easy| it is?|
+```
+|Pipes | Make | It| Easy|
+|--|--|--|
+|See | how| easy| it is?|
+
+> Quotes
 ---
+## Displaying Code
 
-## Pictures!
-
+```
+```
+You can do in-line stuff `like this` or you can do blocks like this:
+```
+def make_report(adjective):
+    if adjective == 'ugly':
+         print('Use word!')
+    if adjective == 'pretty':
+         print('Use Markdown, silly!)
+         
+make_report(pretty)
+'Use Markdown, silly!
+```
 ---
 ## Fancier Stuff
-Git-hub Flavored Markdown
- 
+ ```
  ~~strikethrough~~
  
- Github supports emojis like :umbrella: :purple_heart:
+ * List
+ * More List
+ * This List is Forever
+ 
+ 1. Numbers
+ 3. Are
+ 5. All
+ 6. Screwed
+ 8. Up
+ 44. But it still works!
+ 
+ ```
+  ~~strikethrough~~
+ 
+ * List
+ * More List
+ * This List is Forever
+ 
+ 1. Numbers
+ 3. Are
+ 5. All
+ 6. Screwed
+ 8. Up
+ 44. But it still works!
+ 
+ Github also supports emojis like :umbrella: :purple_heart:
+---
+## Pictures!
+![atom](https://i.github-camo.com/c78b3c01ca7753c84d26706b248adf236cda7d4f/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f3337383032332f31303031333038372f32346363633765632d363134392d313165352d393765612d3533613834326137313565612e706e67)
 ---
 ## All of the tools!
 ### Report Generation
@@ -66,6 +130,8 @@ No Sign Up:
 Requires Sign Up:
 * https://www.swipe.to
 
+---
+## Still more tools!
 ### Web and General Text Editing
 * http://dillinger.io/
 * https://stackedit.io/editor
