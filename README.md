@@ -167,6 +167,7 @@ If you feel like it, try inserting:
 Or if you are super into it:
 
 * Create your own HTML template or find another one to integrate with it
+
 ---
 ## Further Reading
 * More [Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
