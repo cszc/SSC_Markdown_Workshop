@@ -5,9 +5,17 @@ Playing around with markdown, LaTeX, making pretty reports
 
 a nother test
 
-***
+---
 
-What else do i need to do?
+# Why not use Word or Google Docs?
+
+ ===highlight===
+ 
+ footnotes[^1]
+ 
+ ~~strikethrough~~
+ 
+ [^1]:stuff
 
 ---
 
@@ -34,5 +42,8 @@ Requires Sign Up:
 ---
 Further Reading
 * [Markdown Tutorial](http://www.markdowntutorial.com/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* R Markdown [Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) and 
 * [The (Not So) Short Introduction to LaTeX2e](http://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)
 * [Comprehensive LaTeX Symbol List](http://bay.uchicago.edu/tex-archive/info/symbols/comprehensive/symbols-letter.pdf)
+* 
