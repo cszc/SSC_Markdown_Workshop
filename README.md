@@ -16,3 +16,13 @@ What else do i need to do?
 ---
 
 ## How about a third?
+
+---
+Presentations:
+
+No Sign Up:
+* https://www.madoko.net
+* https://gnab.github.io/remark/remarkise
+
+Requires Sign Up:
+* https://www.swipe.to
